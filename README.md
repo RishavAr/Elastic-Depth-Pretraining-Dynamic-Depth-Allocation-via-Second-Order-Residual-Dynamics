@@ -271,7 +271,7 @@ budget_loss = |avg_gate - target_ratio|
 ```bibtex
 @article{edp2025,
   title={Elastic-Depth Pretraining: Dynamic Depth Allocation via Second-Order Residual Dynamics},
-  author={Anonymous},
+  author={Rishav Aryan},
   journal={arXiv preprint},
   year={2025}
 }
